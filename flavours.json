@@ -1,0 +1,7 @@
+{
+    "START"     : 0 ,
+    "END"       : 1 ,
+    "LITERAL"   : 2 ,
+    "GROUP"     : 3 ,
+    "WILD"      : 4 
+}
